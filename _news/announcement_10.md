@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, [Potential recyclable materials in buildings: A framework for greenhouse gas emissions assessment of residential buildings in Singapore](https://doi.org/10.1016/j.resconrec.2026.108954), is published in Resources, Conservation and Recycling.
+My co-authored paper, [Potential recyclable materials in buildings: A framework for greenhouse gas emissions assessment of residential buildings in Singapore](https://doi.org/10.1016/j.resconrec.2026.108954), is published in Resources, Conservation and Recycling.
