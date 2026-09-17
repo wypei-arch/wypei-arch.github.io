@@ -35,20 +35,62 @@
 - title: Research Interests
   type: list
   contents:
-    - Urban Material Stock Modelling
-    - Sustainable Urban Analysis
-    - Building and City Informatics Modelling
-    - Material Flow Analysis (MFA) and Life Cycle Assessment (LCA)
-    - Computational Design
-    - Human Perception
+    - "Spatial intelligence for the built environment"
+    - "Low-carbon cities"
+    - "BIM/CIM and GIS"
+    - "Multimodal AI"
+    - "Knowledge graphs and digital twins"
+    - "Circular construction and material stocks"
+    - "Carbon emissions prediction and decision support"
 
-- title: Scholarships
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: "Circular Future Cities \u2014 Future Cities Laboratory Global"
+      year: "2022\u20132024"
+      description:
+        - "PhD Researcher, Singapore-ETH Centre (SEC). Funded by the National Research Foundation Singapore (NRF) under the CREATE programme and ETH Zurich."
+        - "Integrated BIM/GIS, spatial information, and domain knowledge for multiscale digital representation and spatial information modeling of the built environment."
+        - "Investigated the quantification, spatial distribution, flows, and reuse potential of building components and materials to support urban resource circularity and low-carbon decision-making."
+    - title: "Using Physics-Based and AI-Driven Urban Building Energy Modeling (UBEM) for Operational and Embodied Carbon Emissions Estimation in a Seed Region"
+      year: "2025\u20132026"
+      description:
+        - "Postdoctoral Research Fellow, Urban Redevelopment Authority (URA)\u2013National University of Singapore (NUS) collaboration. Project ID: SC-URA-NUS-2025-1."
+        - "Combines physics-based models and AI with BIM/CIM, GIS, satellite imagery, street-view imagery, and multisource spatial information for multimodal sensing and spatial information modeling."
+        - "Investigates the identification and inference of spatial elements, structural systems, and material composition, as well as prediction and scenario analysis of material intensity, operational carbon, and embodied carbon."
+    - title: "Development of a Spatial Intelligence Database and Generative Models for Robotic Simulation Training Environments"
+      year: "2026\u20132026"
+      description:
+        - "Participating Researcher, China State Construction Engineering Corporation (CSCEC) 2026 R&D programme, China Southwest Architectural Design and Research Institute. Total project funding: RMB 6 million."
+        - "Contributes to a built-environment spatial intelligence database and generative models for robotic simulation training environments."
+        - "Investigates digital representation of multisource spatial information, scene understanding, and scene generation to support environmental perception, spatial cognition, simulation training, and intelligent decision-making for construction robots."
+
+- title: Awards and Honors
   type: list
   contents:
-    - ACADIA 2023 Student Conference Scholarship
-    - Chinese Scholarship Council (CSC) Scholarship (2021)
+    - "Young CAADRIA Award (2021)"
+    - "China Scholarship Council (CSC) Doctoral Scholarship (2021\u20132025)"
+    - "ACADIA 2023 Conference Student Scholarship (2023)"
 
-- title: Awards & Honors
+- title: Academic Activities and Service
   type: list
   contents:
-    - Young CAADRIA Award (2021, Young Researcher)
+    - "Organizer and instructor of the \u201cCircular Cities\u201d workshop at DigitalFUTURES 2024, focusing on explainable material inference and parametric archetype modeling."
+    - "Reviewer for Sustainable Cities and Society; Resources, Conservation & Recycling; Communications Sustainability; and Building and Environment. Conference reviewer for CAADRIA 2021."
+
+- title: Selected Conference Publications
+  type: list
+  contents:
+    - "Pei, W., Li, Y., Ang, Y. Q., & Stouffs, R. (2026, September). Design with Adaptability for Circular Building: A Graph-Informed Generative Framework. eCAADe 2026: Informed Creativity in Architecture and Engineering, Vol. 3. Lübeck, Germany. First author; published conference paper."
+
+- title: Manuscripts Under Review
+  type: list
+  contents:
+    - "Pei, W., Xiong, S., Cao, Q., Habert, G., & Stouffs, R. Data-Adaptive Multi-Level Building Material Stock Modeling for Circular Resource Assessment: An Ontology-Based Framework. Resources, Conservation & Recycling. Under review; first and corresponding author."
+    - "Pei, W., Talami, R., Ang, Y. Q., & Stouffs, R. Parametric Micro-Archetype Modeling: Towards Simulation-Driven Archetype Development for Urban Building Energy Stock Estimation. Under review; first author."
+    - "Pei, W., & Ang, Y. Q. A Harmonised Building Material Intensity Database for Uncertainty-Aware Building Stock Analysis. Under review; first author."
+
+- title: Manuscripts in Preparation
+  type: list
+  contents:
+    - "Wanyu Pei, Qian Cao, Yang Li, Wong Mun Summ, Rudi Stouffs, Yu Qian Ang*. Form Archetypes: A Computational Representation for Generative Urban Design and Regional Embodied Carbon Assessment. Conference manuscript in preparation. Corresponding author: Yu Qian Ang."
