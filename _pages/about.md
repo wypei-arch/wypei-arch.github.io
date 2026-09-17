@@ -25,18 +25,6 @@ I am a Postdoctoral Research Fellow at the [City Syntax Lab](https://www.citysyn
 
 My research focuses on spatial intelligence for the built environment and low-carbon cities. I integrate domain knowledge with artificial intelligence, combining building and city information modeling (BIM/CIM), geographic information systems (GIS), multimodal AI, knowledge graphs, and digital twins. My work addresses multiscale intelligent sensing and spatial information modeling of the built environment, circular use of building components and materials, and AI-driven carbon emissions prediction and decision support.
 
-## Research Contributions
-
-1. **Global building material intensity database and predictive modeling.** I develop a global building material intensity database by integrating heterogeneous data from multiple sources, alongside uncertainty-aware machine learning methods for predicting material stocks and embodied carbon.
-
-2. **Multimodal AI for the built environment.** I combine satellite imagery, street-view imagery, building attributes, and spatial relationships to identify and infer built-environment elements, structural systems, and material composition.
-
-3. **Digital tracking of components and materials.** I develop BIM/CIM- and knowledge graph-driven methods for tracking building components and materials, quantifying material stocks, and assessing reuse potential, extending these methods to urban-scale resource stock modeling.
-
-4. **Dynamic modeling for circular and low-carbon cities.** I develop dynamic simulation frameworks linking urban material stocks, flows, and carbon emissions to support resource circularity and low-carbon decisions under new construction, renovation, and demolition scenarios.
-
-5. **Publications and open research outputs.** My first-author research has appeared in Automation in Construction, Resources, Conservation & Recycling, and Building and Environment, alongside open databases, open-source models, and digital tools.
-
 ## Research Projects
 
 ### Circular Future Cities — Future Cities Laboratory Global
