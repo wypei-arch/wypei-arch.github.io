@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wypei-arch.github.io/sitemap.xml
